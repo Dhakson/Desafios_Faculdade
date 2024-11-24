@@ -1,3 +1,5 @@
+/* O desafio proposto foi corregir alguns problemas que o código continha.*/
+
 #include <stdio.h>
 
 struct Candidato
