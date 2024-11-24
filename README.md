@@ -1,2 +1,2 @@
 # Desafios_Faculdade
-desafios proposto pela faculdade Unicesumar na Linguagem de Programção C.
+Aqui ficarão todos os desafios proposto pela faculdade Unicesumar na Linguagem de Programção C.
