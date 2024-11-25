@@ -68,6 +68,7 @@ int main(){
         printf("1.Votar\n");
         printf("2.Apurar Votos\n");
         printf("3. Emitir percentual de votos\n");
+        printf("4. Sair");
         scanf("%d",&opcao);
         switch (opcao)
         {
@@ -79,6 +80,10 @@ int main(){
             break;
         case 3:
             percentualVotos(candidatos,totalCandidatos,totalVotos);
+            break;
+
+        case 4:
+            printf("Finalizando o programa.");
             break;
         default:
             break;
